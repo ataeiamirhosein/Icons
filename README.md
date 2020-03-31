@@ -64,11 +64,3 @@ Docs are published via an npm script that builds the Hugo site, creates a tempor
 ```shell
 npm run publish
 ```
-
-# License
-
-MIT
-
-# Author
-
-@mdo
